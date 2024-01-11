@@ -6,3 +6,5 @@ For buiding your own config, you can refer to the following:
 
 A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
 Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+
+tset text
